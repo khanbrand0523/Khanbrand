@@ -2,8 +2,8 @@ import os
 from os import environ
 
 # API Configuration
-API_ID = int(os.environ.get("API_ID", "25933223"))
-API_HASH = os.environ.get("API_HASH", "6ef5a426d85b7f01562a41e6416791d3")
+API_ID = int(os.environ.get("API_ID", "34540487"))
+API_HASH = os.environ.get("API_HASH", "fa2979b2fbc6515c86cc54029b62f23a)
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 
 CREDIT = os.environ.get("CREDIT", "KHAN")
@@ -13,7 +13,7 @@ DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://sujalbot:sujalbot@c
 MONGO_URL = DATABASE_URL  # For auth system
 
 # Owner and Admin Configuration
-OWNER_ID = int(os.environ.get("OWNER_ID", ""))
+OWNER_ID = int(os.environ.get("OWNER_ID"8779854473"))
 ADMINS = [8458169280, 8383373235]  # dono admins id list me
 
 
@@ -60,6 +60,7 @@ Please contact the admin @ItsUGBot to get access.</blockquote>""",
 
 <blockquote>Use format: {format}</blockquote>"""
 }
+
 
 
 
